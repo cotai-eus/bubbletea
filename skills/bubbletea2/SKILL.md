@@ -1,3 +1,8 @@
+---
+name: Bubbletea TUI Development
+description: Production-ready skill for building, reviewing, and migrating TUI applications with Go, Bubble Tea v2, and Lip Gloss, using local references from this repository.
+---
+
 # Bubbletea TUI Development
 
 Production-ready skill for building, reviewing, and migrating TUI applications with Go, Bubble Tea v2, and Lip Gloss, using local references from this repository.
